@@ -1,0 +1,6 @@
+q1.model : https://drive.google.com/file/d/1v2aieCnxjVDeBEAvh3nbiR8m9zqwu9gc/view?usp=sharing
+q1.model_alter: https://drive.google.com/file/d/1HxnknbBi4fxh9tLcrp1oMhaQfTs4dndL/view?usp=sharing
+
+q2: linear: https://drive.google.com/file/d/116FMLbBf02pTmkJgBPgnmZogbl8QnBX3/view?usp=sharing
+q2: model2: https://drive.google.com/file/d/1N1BQdqhkLc7wM8OBHu9U7BRFHrnkPMD3/view?usp=sharing
+q2: model: https://drive.google.com/file/d/1cwlAv2PK6I7ji4bQTreGVIlo1sXPZgGH/view?usp=sharing
